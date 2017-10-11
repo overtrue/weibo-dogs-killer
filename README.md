@@ -16,5 +16,4 @@
 
 黑名单：
 
-![image](https://user-images.githubusercontent.com/1472352/31420547-ce77fef8-ae07-11e7-83a2-396f1d4d147d.png)
-
+![image](https://user-images.githubusercontent.com/1472352/31421935-16441f3e-ae10-11e7-8d5a-333d9aa26ccc.png)
