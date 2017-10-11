@@ -4,7 +4,7 @@
 
 ## 使用方法
 
-1. 使用 chrome 打开 weibo.com 并登录
+1. 使用 chrome 打开 https://weibo.com 并登录
 2. 打开调试窗口，复制 [weibo-dogs-killer.js](https://github.com/overtrue/weibo-dogs-killer/raw/master/weibo-dogs-killer.js) 中的全部代码， 在 console 中粘贴代码后回车
 3. 等待完成
 
