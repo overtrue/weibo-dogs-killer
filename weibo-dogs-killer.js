@@ -1,4 +1,4 @@
-// 1. 使用 chrome 打开 weibo.com （确保你登录了微博）
+// 1. 使用 chrome 打开 https://weibo.com （确保你登录了微博）
 // 2. 打开调试窗口，在 console 中贴下面的代码后回车
 // 数据来自：https://github.com/yu961549745/WeiboBlackList
 
