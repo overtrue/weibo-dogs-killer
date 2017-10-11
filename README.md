@@ -23,4 +23,5 @@
 
 毕竟这个群体是在不断增加的，所以有兴致你可以用 https://github.com/LyZane/weibo-supervisor-jsCrawler 来采集再拉黑，哈哈哈哈
 
-![](https://www.tenor.co/PMz1.gif)
+![a92904f59c1969c808fa876e2ae4067d](https://user-images.githubusercontent.com/1472352/31431285-d52981dc-ae38-11e7-9d72-c1e61ef19b2e.gif)
+
