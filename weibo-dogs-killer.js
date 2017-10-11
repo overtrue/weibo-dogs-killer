@@ -14,7 +14,7 @@ function kill() {
         return clearInterval(timer)
     }
     let dogId = dogs[i]
-    let url = 'http://weibo.com/aj/filter/block?ajwvr=6'
+    let url = 'https://weibo.com/aj/filter/block?ajwvr=6'
 
     http.open('POST', url, true)
     http.setRequestHeader('Content-type', 'application/x-www-form-urlencoded')
